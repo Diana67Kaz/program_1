@@ -5,9 +5,9 @@
 #         if sub_sym==sym:
 #             count+=1
 #     print(sym, count)
-# O(N)=N**2 итераций: 4
+# O(N)=N*N=N**2 итераций:4
 # s='aabca'
-# for sym in set(s):
+# for sym in set(s): #set вытаскивает уникальные символы
 #     count=0
 #     for sub_sym in s:
 #         if sub_sym==sym:
@@ -20,4 +20,4 @@
 # for sym in s:
 #     syms_counter[sym] = syms_counter.get(sym,0)+1
 # print(syms_counter)
-# O(N) =
+# # O(N) =git status
