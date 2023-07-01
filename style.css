@@ -1,0 +1,23 @@
+
+
+
+
+
+h1{
+    background: blue;
+    color: white;
+}
+.description{
+    border: 2px solid orange;
+    border-radius: 5px;
+    font-size: 24px;
+    padding: 20px;
+    margin-top: 250px;
+    margin-left: 250px;git
+}
+.text{
+      font-size: 24px;
+      font-style: italic;
+      text-align: center;
+      text-shadow: green 5px 10px;
+}
